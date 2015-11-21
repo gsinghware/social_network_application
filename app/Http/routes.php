@@ -11,6 +11,15 @@
 |
 */
 
-Route::get('/', function () {
+/* defaut
+
+Route::get('/', [function () {
     return view('welcome');
-});
+}]);
+
+*/
+
+Route::get('/', [
+	'uses' => '\Chatty\Http\Controllers\HomeController@index',
+	'as' => 'home',
+]);
