@@ -1,7 +1,13 @@
-<h1>Simple Social Network Application<H1>
+## Synopsis
 
-<h5>Using PHP Laravel Framework!</h5>
+Simple Social Network Application using PHP Laravel Framework
 
-<p>Model View Controller System.</p>
+## Motivation
 
-<h5>How to run this app on your computer?</h5>
+## Installation
+
+## API Reference
+
+## Contributors
+
+## License
